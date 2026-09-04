@@ -17,6 +17,10 @@ This is a Visual Studio 2008 VB.NET Windows Forms helper that loads a plain-text
 
 Open `PickAMovie.sln` in Visual Studio 2008. Build, then run with `Movies.txt` next to the exe (a sample list is in the project folder).
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `PickAMovie`). Assembly metadata still has the Visual Studio template defaults (Microsoft 2009). No third-party libraries in the tree.

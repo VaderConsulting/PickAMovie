@@ -1,6 +1,6 @@
 # PickAMovie
 
-This is a Visual Studio 2008 VB.NET Windows Forms helper that loads a plain-text movie list and picks one at random. btnLoad reads `Movies.txt` (or whatever path is in txtFilename), skips blank lines and lines starting with `-`, then fills lstMovies; btnRandom selects an item with `Random.NextDouble`. This is Dave Robinson's working copy from Historical Dev.
+This is a Visual Studio 2008 VB.NET Windows Forms helper that loads a plain-text movie list and picks one at random. btnLoad reads `Movies.txt` (or whatever path is in txtFilename), skips blank lines and lines starting with `-`, then fills lstMovies; btnRandom selects an item with `Random.NextDouble`. This is my working copy from Historical Dev.
 
 **Source last updated:** 2009-04-20  
 **Language:** VB.NET  
